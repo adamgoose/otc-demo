@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    OTC IS AMAZBALLZ
                 </div>
 
                 <div class="links">
