@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    OTC IS AMAZBALLZz
+                    OTC IS Super amazing!
                 </div>
 
                 <div class="links">
